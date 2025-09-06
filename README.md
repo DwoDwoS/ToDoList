@@ -37,12 +37,13 @@ git clone https://github.com/DwoDwoS/ToDoList.git
 - Utilisez le bouton Dark Mode pour basculer entre les thèmes clair et sombre.
 
 ## Structure du projet
+```swift
 /ToDoList
 │
 ├── ToDoList.html      # Structure de l’application
 ├── style.css          # Styles et thèmes
 └── ToDoList.js        # Logique JavaScript (ajout, suppression, marquage, mode sombre)
-
+```
 ## Personnalisation
 
 Vous pouvez facilement :
